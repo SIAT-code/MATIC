@@ -1,5 +1,7 @@
 # MATIC
-Official implementation of our MATIC model
+Implementation of paper:
+
+Hu, F., Wang, D., Huang, H., Hu, Y., & Yin, P. (2022). Bridging the Gap between Target-Based and Cell-Based Drug Discovery with a Graph Generative Multitask Model. Journal of Chemical Information and Modeling. https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01180
 
 ## Requirement
 ```
